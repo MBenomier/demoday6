@@ -1,9 +1,7 @@
 numpy 
 pandas 
 xgboost 
-pickle
 flask 
 numpy 
 seaborn 
 matplotlib
-pandas 
